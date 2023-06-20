@@ -10,15 +10,16 @@ This demo is focusing around how to use Copilot to easily write unit tests for J
 
 ## Prerequisites
 
-- [IntellI IDEA for some examples](https://www.jetbrains.com/idea/download/)
+- [Installed IntellI IDEA](https://www.jetbrains.com/idea/download/)
 - [GitHub Copilot Extension for IntellJ](https://plugins.jetbrains.com/plugin/17718-github-copilot)
 - [Maven](https://maven.apache.org/download.cgi)
-- [Download sample codes](./TDDJava)
+- [Download a sample project codes called TDDJava](./TDDJava)
+
+[See this documentation on how to install Copilot extension for IntelliJ](/CopilotExtnsion4IntelliJ)
 
 ## Steps
 
-TO DO
-
+Welcome! In this starting Copilot demo for **Test Driven Development (TDD) using IntelliJ**, you will start with a sample **Java + Maven** projects that contain some starting codes that can help you to implement TDD using Copilot.
 
 ### Step 1: TO DO
 
