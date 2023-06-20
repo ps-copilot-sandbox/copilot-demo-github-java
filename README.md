@@ -1,6 +1,6 @@
 # Copilot Demos for Java developers
 
-![Java Icon with IntelliJ](./images/icon-java.jpg)
+![Java Icon with IntelliJ](./images/icon_java.jpg)
 
 This contains a collection of demos for Copilot for Java programming language. This is going to be useful for customers who are interested in using Java development with Copilot.
 
@@ -16,7 +16,7 @@ Some of these demos can be done with just VS Code, but some advanced demoes are 
 - [IntellI IDEA for some examples](https://www.jetbrains.com/idea/download/)
 - [GitHub Copilot Extension for IntellJ](https://plugins.jetbrains.com/plugin/17718-github-copilot) or [VS Code Extension for Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
 
-[See this documentation on how to install Copilot extension for IntelliJ](/CopilotExtnsion4IntelliJ)
+[See this documentation on how to install Copilot extension for IntelliJ](/CopilotExtension4IntelliJ)
 
 ## Demos
 

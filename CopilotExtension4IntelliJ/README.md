@@ -1,6 +1,6 @@
-# Prerequisite to installing Copilot Extension for IntelliJ IDE
+# How to install Copilot Extension for IntelliJ IDE
 
-This is a prerequisite to installing Copilot Extension for IntelliJ IDE. You need to install IntelliJ IDE first before you can install Copilot Extension for IntelliJ IDE.
+This shows how to install Copilot Extension for IntelliJ IDE. You need to install IntelliJ IDE first before you can install Copilot Extension for IntelliJ IDE.
 
 ## Step 1: Install IntelliJ IDE
 
@@ -22,7 +22,7 @@ You will see the **Preferences** window.
 
 Next, go to **Plugins** and search for **Copilot**. You should see **GitHub Copilot** extension in the search result. 
 
-![Search for Extension](../images/CopilotPrerequisite/3_SearchCopilotjpg)
+![Search for Extension](../images/CopilotPrerequisite/3_SearchCopilot.jpg))
 
 
 Click on **Install** button to install the extension. You need to accept the term.
