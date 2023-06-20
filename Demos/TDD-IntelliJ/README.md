@@ -61,11 +61,11 @@ You probably also need to fix **Project Structure** by setting a right **Java De
 
 Then, select **Project** and select a right **Project SDK**. 
 
-![No SDK(./images/7_NoSDK.jpg)
+![No SDK](./images/7_NoSDK.jpg)
 
 In this case, I am using **Java 20 version 20.0.1**, but IntellJ also have an option to download JDK for you. You can click on **Download JDK** and select a right version of JDK.
 
-![Install SDK](./images/8_InstallJDK.jpg)
+![Install SDK](./images/8_InstallSDK.jpg)
 
 ### Step 5: Test out first test and fix it
 
@@ -105,15 +105,17 @@ Once we accepted the generated code, we have few options. IntelliJ does have a b
 
 But, we want to focus on Copilot driven development. So, let's go to `StringCalculator` class and implement the function. As soon as you type, it will give you a suggestion for the function name by cross-referencing what you typed in `StringCalculatorTest` class.
 
-![Suggestion for function name](./images/17_CopilotAddScondFunction.jpg)
+![Suggestion for function name](./images/17_CopilotAddSecondFunction.jpg)
 
 Run the test again, and it will become successful!. Great job.
+
+![Pass second test](./images/18_PassSecondTest.jpg)
 
 ### Step 7: Last exercise for implementing a third test function called findLargestNumberFromList
 
 We can stop from there, but let's maybe do one more exercise. We can implement a test and a code to find the largest number from a provided list. We start typing a test function name in `StringCalculatorTest` class.
 
-![Add a third test](./images/18_AddThirdTest.jpg)
+![Add a third test](./images/19_AddThirdTest.jpg)
 
 Once if we are happy with what Copilot suggests, we can accept the solution. Just like last time, let's go create this function in `StringCalculator` class.
 
