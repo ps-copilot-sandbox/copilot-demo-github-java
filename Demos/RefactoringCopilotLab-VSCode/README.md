@@ -46,7 +46,7 @@ public class CopilotLabRefactoring {
 
 As soon as you start hovering your mouse below, you will see a `public static void...` text comes in.
 
-![Copilot Lab](./images/5_MainJavaGenear.jpg)
+![Copilot Lab](./images/5_MainJavaGenerating.jpg)
 
 Accept that. Let's start adding some codes to add numbers from one to 100. Copilot will help you generating those code as you start typing in.
 
