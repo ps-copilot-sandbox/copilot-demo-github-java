@@ -22,7 +22,7 @@ You will see the **Preferences** window.
 
 Next, go to **Plugins** and search for **Copilot**. You should see **GitHub Copilot** extension in the search result. 
 
-![Search for Extension](../images/CopilotPrerequisite/3_SearchCopilot.jpg))
+![Search for Extension](../images/CopilotPrerequisite/3_SearchCopilot.jpg)
 
 
 Click on **Install** button to install the extension. You need to accept the term.
