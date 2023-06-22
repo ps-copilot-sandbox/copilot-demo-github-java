@@ -70,7 +70,7 @@ Again, GitHub COpilot will suggest you you write. You can keep typing to ignore 
 
 After you typed, it will suggest codes like this. Your result might look different, and what we want really does not matter.
 
-![Recommended function](7_SuggestionFunctionReverse.jpg)
+![Recommended function](./images/7_SuggestionFunctionReverse.jpg)
 
 Notice that your Copilot icon on bottom right corner spins as GitHub Copilot is thinking. 
 
