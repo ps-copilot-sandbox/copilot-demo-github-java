@@ -140,4 +140,4 @@ And hit **Run Code**.
 
 ![Run code](./images/16_LeetCodePass.jpg)
 
-Voila! You can see Leetcode successfully passed the test. You can submit your code to Leetcode and see if you can get a higher rank. Of course, that is totally up to you. :cat
+Voila! You can see Leetcode successfully passed the test. You can submit your code to Leetcode and see if you can get a higher rank. Of course, that is totally up to you.
