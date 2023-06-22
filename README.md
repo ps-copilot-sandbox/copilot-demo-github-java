@@ -22,7 +22,7 @@ Some of these demos can be done with just VS Code, but some advanced demoes are 
 
 You want to start with basic one then jump to other ones.
 
-1. [Getting started - Solving algorithm puzzle - Visual Studio Code](GettingStarted/README.md)
+1. [Getting started - Solving algorithm puzzle - Visual Studio Code](Demos/GettingStarted/README.md)
 2. [Test Driven Development (TDD) using Maven and Java through IntelliJ](Demos/TDD-IntelliJ/README.md)
 3. [Refactoring Java codes through Copilot lab in Visual Studio Code](Demos/RefactoringCopilotLab-VSCode/README.md)
 
