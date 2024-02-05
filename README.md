@@ -25,6 +25,8 @@ You want to start with basic one then jump to other ones.
 1. [Getting started - Solving algorithm puzzle - Visual Studio Code](Demos/GettingStarted/README.md)
 2. [Test Driven Development (TDD) using Maven and Java through IntelliJ](Demos/TDD-IntelliJ/README.md)
 3. [Refactoring Java codes through Copilot lab in Visual Studio Code](Demos/RefactoringCopilotLab-VSCode/README.md)
+4. [Rock, Paper, Scissors game using Java and Copilot in IntelliJ](Demos/RPS-IntelliJ/README.md)
+
 
 
 ## Contribution
