@@ -27,9 +27,9 @@ You want to start with basic one then jump to other ones.
 3. [Refactoring Java codes through Copilot lab in Visual Studio Code](Demos/RefactoringCopilotLab-VSCode/README.md)
 
 
-## Contribution
+## 🤝 Contributing
+Contributions are warmly welcomed! ✨
 
-If you want to contribute to this repo, please follow the [Contribution Guidelines](CONTRIBUTING.md).
+To contribute to a public exercise, please refer to our contribution guidelines [here](https://github.com/ps-copilot-sandbox/.github/blob/main/.github/CONTRIBUTING.md).
 
-
-
+To create a net new exercise, please use [this repository template](https://github.com/ps-copilot-sandbox/copilot-exercise-template).
